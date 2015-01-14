@@ -1,0 +1,32 @@
+
+    .row 1 {
+      background: yellow;
+      height: 400px;
+      text-align: center;
+    }
+    
+    .row 2 {
+      height: 400px;
+      background: red;
+    }
+    
+    . row 3 {
+      height: 200px;
+      background: green;
+      transition: all 2s;
+    }
+    h1 {
+     text-align: center;
+      font-weight: bold;
+    }
+    img {
+     width: 700px;
+     border-top: 1px solid #e5e5e5;
+    }
+    
+    .about {
+     font-weight: bold; 
+    }
+    .jumbotron {
+      opacity: 0.5;
+    }
