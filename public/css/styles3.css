@@ -1,5 +1,4 @@
-
-    .row 1 {
+.row 1 {
       background: yellow;
       height: 400px;
       text-align: center;
@@ -30,6 +29,17 @@
     .jumbotron {
       opacity: 0.7;
     }
+    
+   
+     
+
+
+
+
+
+
+
      body {
-      background-image: url("http://i.ytimg.com/vi/pPUefEnkM9Y/maxresdefault.jpg");
+      background-image: url("http://static.tumblr.com/857135ec8b5c67fab6c82047d9ffea30/f81w82v/AVzne3fa4/tumblr_static_3qrje5gen2yoogwc80480ksw0.jpg");
+    }");
     }

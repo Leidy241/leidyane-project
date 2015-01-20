@@ -1,0 +1,34 @@
+.jumbotron:hover {
+      color: red;
+      background: url('http://media.giphy.com/media/7DliSiFC7o72U/giphy.gif') repeat;
+      background-size: contain;
+    }
+    .main {
+      background: #666;
+      margin-top: 60px;
+      padding-top: 10px;
+    }
+    .bottom {
+      margin-right: 20px;
+      margin-left: 20px;
+    }
+    .lorem {
+      color: white;
+    }
+    #carousel-example-generic {
+      padding-top: 100px;
+    }
+    .carousel-inner .item img.item-image {
+      height: 500px;
+      margin: 0 auto;
+    }
+    .carousel-caption {
+      color: rgba(255, 0, 0, 0.56);
+      font-size: 50pt;
+    }
+    .coolimage {
+      height: 400px;
+    }
+    body {
+      background-image: url("http://i.ytimg.com/vi/pPUefEnkM9Y/maxresdefault.jpg");
+    }
