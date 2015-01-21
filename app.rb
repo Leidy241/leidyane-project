@@ -15,4 +15,8 @@ class MyApp < Sinatra::Base
     erb :video
   end
 
+  get '/collage' do
+    erb :collage
+  end
+
 end
